@@ -1,10 +1,18 @@
+<p align="center">About Me👨‍💻.</p>
+
+###
+
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/05/48/dd/0548dd4afa665874c0c568fe5c189bda.gif"  />
+  <img height="200" src="https://i.pinimg.com/originals/c9/71/fd/c971fd50b6b67d7995e61005c993e7d0.gif"  />
 </div>
 
 ###
 
 <p align="center">Hey guys 👋, my name is Zac. I’ve been becoming a developer for a few months now 💻, and I’m completely in love with the programming field ❤️👨‍💻.</p>
+
+###
+
+<p align="left">━━━━━━━━━━━━━━━━━💻━━━━━━━━━━━━━━━━</p>
 
 ###
 
@@ -30,21 +38,22 @@
 
 ###
 
+<p align="left">━━━━━━━━━━━━━━━━━👋━━━━━━━━━━━━━━━━</p>
+
+###
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/isaacmonteiro/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
+  <a href="https://linkedin.com.br/isaacmonteiro" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="69" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.behance.net/zacdevv" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="60" height="40" alt="behance logo"  />
+  <a href="https://behance.com/zacdevv" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="69" height="40" alt="behance logo"  />
   </a>
-  <a href="https://gmail.com/zac.montteiro" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  />
+  <a href="https://instagram.com/zac.devv" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="69" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://instagram/zac.devv" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/tokyoz" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="discord logo"  />
+  <a href="https://wa.me/5561991985017" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="69" height="40" alt="whatsapp logo"  />
   </a>
 </div>
 
