@@ -43,7 +43,7 @@
 ###
 
 <div align="center">
-  <a href="https://linkedin.com.br/isaacmonteiro" target="_blank">
+  <a href="www.linkedin.com/in/isaacmonteiro" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="69" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://behance.com/zacdevv" target="_blank">
